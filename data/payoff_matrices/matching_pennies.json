@@ -1,0 +1,9 @@
+{
+  "game": "Matching Pennies",
+  "players": ["A", "B"],
+  "actions": ["Heads", "Tails"],
+  "matrix": [
+    [[1, -1], [-1, 1]],
+    [[-1, 1], [1, -1]]
+  ]
+}
