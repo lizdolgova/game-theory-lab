@@ -1,0 +1,9 @@
+{
+  "game": "Prisoner's Dilemma",
+  "players": ["A", "B"],
+  "actions": ["Cooperate", "Defect"],
+  "matrix": [
+    [[-1, -1], [-3, 0]],
+    [[0, -3], [-2, -2]]
+  ]
+}
